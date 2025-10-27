@@ -1,0 +1,50 @@
+body{
+    margin:3px;
+    background-image:url(IMG_1912.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:rgb(207, 164, 99);
+}
+p{
+    background: linear-gradient(to right, lightgreen, skyblue);
+    font-family:'Courier New', Courier, monospace;
+    /*font-weight
+    font-style
+    font-decoration
+    font-size
+    */
+    border-style: outset;
+    /*can do border-top-style, bottom-style etc*/
+    border-width: 3px;
+    border-color:gold;
+    border-radius:3px;/*rounds corners out*/
+    padding:5px;
+    color:black;
+    margin-left:5%;
+    margin-right:5%;
+}
+#box1{
+    border:5px outset;
+    border-color:gold;
+    border-radius:3px;
+    width:250px;
+    height:250px;
+    background:linear-gradient(gold,skyblue);
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#box2{
+    border: 1px solid;
+    height: 300px;
+    width:300px;
+    background-color:peachpuff;
+}
+#box3{
+    border: 1px solid;
+    height: 100px;
+    width:100px;
+    background-color:lightseagreen;
+}

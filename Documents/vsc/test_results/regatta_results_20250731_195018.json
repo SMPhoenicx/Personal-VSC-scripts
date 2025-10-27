@@ -1,0 +1,270 @@
+{
+  "event_info": {
+    "logo_url": "./regatta_uploads/8448/CCYCLogo175.gif",
+    "title": "2025 TSA: CHANGES IN L’ATTITUDE REGATTA",
+    "club_name": "Corpus Christi Yacht Club          July 26-27, 2025",
+    "dates": null
+  },
+  "divisions": [
+    {
+      "name": "Optimist RWB",
+      "boat_count": 10,
+      "races_scored": 7,
+      "last_updated": "Sunday, July 27, 2025 1:14:55 PM CDTClick on race number to view detailed race information.",
+      "results": [
+        {
+          "position": 1,
+          "sail_number": "23415",
+          "boat_name": "Luke Scott[Red]",
+          "skipper": "RCYC",
+          "race_results": "1-1-1-[3]-3-1-2",
+          "total_points": "9"
+        },
+        {
+          "position": 2,
+          "sail_number": "20548",
+          "boat_name": "William Bowman[Blue]",
+          "skipper": "LYC/TCYC",
+          "race_results": "3-2-[4]-4-1-2-1",
+          "total_points": "13"
+        },
+        {
+          "position": 3,
+          "sail_number": "22942",
+          "boat_name": "Vitor De Castro[Red]",
+          "skipper": "Lakewood YC",
+          "race_results": "[5]-4-2-1-4-3-3",
+          "total_points": "17"
+        },
+        {
+          "position": 4,
+          "sail_number": "22803",
+          "boat_name": "Lucas Rystrom[Blue]",
+          "skipper": "Corpus Christi Yacht Club",
+          "race_results": "2-3-3-[11/DNF]-6-6-5",
+          "total_points": "25"
+        },
+        {
+          "position": 5,
+          "sail_number": "13576",
+          "boat_name": "Thomas Forswall[Blue]",
+          "skipper": "TCYC/LYC",
+          "race_results": "6-5-5-5-[8]-4-4",
+          "total_points": "29"
+        },
+        {
+          "position": 6,
+          "sail_number": "USA 21844",
+          "boat_name": "Giovanni Marzonie[Red]",
+          "skipper": "LYC",
+          "race_results": "4-6-6-2-[7]-5-7",
+          "total_points": "30"
+        },
+        {
+          "position": 7,
+          "sail_number": "23629",
+          "boat_name": "Tate McLean[Blue]",
+          "skipper": "LYC",
+          "race_results": "[11/DNF]-7-7-11/DNF-2-7-6",
+          "total_points": "40"
+        },
+        {
+          "position": 8,
+          "sail_number": "15527",
+          "boat_name": "Jacqueline D'Olive[Blue]",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "[11/DNF]-11/RET-11/DNC-11/DNC-5-8-9",
+          "total_points": "55"
+        },
+        {
+          "position": 9,
+          "sail_number": "19628",
+          "boat_name": "Carys Rybar[Blue]",
+          "skipper": "Corpus Christi Yacht Club",
+          "race_results": "7-[11/RET]-11/DNC-11/DNC-10-9-8",
+          "total_points": "56"
+        },
+        {
+          "position": 10,
+          "sail_number": "14977",
+          "boat_name": "Tealyn Buck[Blue]",
+          "skipper": "Corpus Christi",
+          "race_results": "8-[11/DNS]-11/DNC-11/DNC-9-10-10",
+          "total_points": "59"
+        }
+      ],
+      "metadata": {
+        "extracted_at": "2025-07-31T19:50:18.205654"
+      }
+    },
+    {
+      "name": "Optimist Green",
+      "boat_count": 6,
+      "races_scored": 11,
+      "last_updated": "Sunday, July 27, 2025 1:11:20 PM CDTClick on race number to view detailed race information.",
+      "results": [
+        {
+          "position": 1,
+          "sail_number": "22748",
+          "boat_name": "Charlie von Eichel-Streiber",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "3-2-2-1-1-[7/OCS]-[7/OCS]-1-2-2-1",
+          "total_points": "15"
+        },
+        {
+          "position": 2,
+          "sail_number": "28408",
+          "boat_name": "Boet Bowman",
+          "skipper": "LYC/TCYC",
+          "race_results": "1-[7/DNS]-3-[7/RET]-2-1-3-2-1-1-2",
+          "total_points": "16"
+        },
+        {
+          "position": 3,
+          "sail_number": "22434",
+          "boat_name": "Dylan Breen",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "[7/DNC]-3-1-2-[7/DNF]-2-1-3-3-3-3",
+          "total_points": "21"
+        },
+        {
+          "position": 4,
+          "sail_number": "21336",
+          "boat_name": "Charles Forswall",
+          "skipper": "TCYC/LYC",
+          "race_results": "2-1-[4]-3-3-4-4-4-4-4-[5]",
+          "total_points": "29"
+        },
+        {
+          "position": 5,
+          "sail_number": "20817",
+          "boat_name": "Elise D'Olive",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "4-4-[5]-[7/DNS]-4-3-2-5-5-5-4",
+          "total_points": "36"
+        },
+        {
+          "position": 6,
+          "sail_number": "22285",
+          "boat_name": "CJ McLean",
+          "skipper": "LYC",
+          "race_results": "[7/DNF]-[7/RET]-7/RET-7/DNC-7/DNC-5-5-6-6-7/OCS-6",
+          "total_points": "56"
+        }
+      ],
+      "metadata": {
+        "extracted_at": "2025-07-31T19:50:18.338262"
+      }
+    },
+    {
+      "name": "Laser Radial",
+      "boat_count": 1,
+      "races_scored": 0,
+      "last_updated": "Sunday, July 27, 2025 1:11:20 PM CDTClick on race number to view detailed race information.",
+      "results": [],
+      "metadata": {
+        "extracted_at": "2025-07-31T19:50:18.391449"
+      }
+    },
+    {
+      "name": "Laser 4.7",
+      "boat_count": 3,
+      "races_scored": 7,
+      "last_updated": "Sunday, July 27, 2025 1:27:35 PM CDTClick on race number to view detailed race information.",
+      "results": [
+        {
+          "position": 1,
+          "sail_number": "144307",
+          "boat_name": "Milou Van Kuilenburg",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "[2]-2-1-1-1-1-2",
+          "total_points": "8"
+        },
+        {
+          "position": 2,
+          "sail_number": "220492",
+          "boat_name": "Eli Maher",
+          "skipper": "Lakewood Yacht Club",
+          "race_results": "1-1-[2]-2-2-2-1",
+          "total_points": "9"
+        },
+        {
+          "position": 3,
+          "sail_number": "160022",
+          "boat_name": "Alex Van Zanten",
+          "skipper": "FWBC",
+          "race_results": "[4/DNC]-4/DNC-4/DNC-4/DNC-4/DNC-4/DNC-4/DNC",
+          "total_points": "24"
+        }
+      ],
+      "metadata": {
+        "extracted_at": "2025-07-31T19:50:18.479298"
+      }
+    },
+    {
+      "name": "C420",
+      "boat_count": 6,
+      "races_scored": 7,
+      "last_updated": "Sunday, July 27, 2025 1:29:28 PM CDTClick on race number to view detailed race information.",
+      "results": [
+        {
+          "position": 1,
+          "sail_number": "9380",
+          "boat_name": "Clayton Rodick",
+          "skipper": "Houston Yacht Club",
+          "race_results": "1-1-1-3-1-[3.2/20%*]-1",
+          "total_points": "8"
+        },
+        {
+          "position": 2,
+          "sail_number": "8685",
+          "boat_name": "Roni Sela",
+          "skipper": "Austin Yacht Club",
+          "race_results": "3-2-3-1-2-1-[4]",
+          "total_points": "12"
+        },
+        {
+          "position": 3,
+          "sail_number": "9663",
+          "boat_name": "Maximo Hudlow",
+          "skipper": "CCYC",
+          "race_results": "2-[3]-2-2-3-2-2",
+          "total_points": "13"
+        },
+        {
+          "position": 4,
+          "sail_number": "7218",
+          "boat_name": "June Schroeder",
+          "skipper": "CCYC",
+          "race_results": "5-5-[7/RET]-4-4-4-3",
+          "total_points": "25"
+        },
+        {
+          "position": 5,
+          "sail_number": "6214",
+          "boat_name": "Cameron Rybar",
+          "skipper": "Corpus Christi Yacht Club",
+          "race_results": "4-4-[7/DNF]-5-5-5-5",
+          "total_points": "28"
+        },
+        {
+          "position": 6,
+          "sail_number": "9635",
+          "boat_name": "Jessica Hobbs",
+          "skipper": "CCYC",
+          "race_results": "6-[7/RET]-7/DNC-7/DNC-7/DNC-7/DNC-7/DNC",
+          "total_points": "41"
+        }
+      ],
+      "metadata": {
+        "extracted_at": "2025-07-31T19:50:18.603863"
+      }
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-07-31T19:50:18.603899",
+    "source_url": "https://www.regattanetwork.com/clubmgmt/applet_regatta_results.php?regatta_id=30127&media_format=1",
+    "total_divisions": 5,
+    "scraper_type": "regatta_network"
+  }
+}

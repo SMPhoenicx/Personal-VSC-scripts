@@ -1,0 +1,17 @@
+2025-05-24 17:43:18,357 - INFO - ==================================================
+2025-05-24 17:43:18,357 - INFO - 🏁 Starting Regatta Results Scraper Server
+2025-05-24 17:43:18,357 - INFO - ==================================================
+2025-05-24 17:43:18,357 - INFO - Server will be available at: http://0.0.0.0:5000
+2025-05-24 17:43:18,357 - INFO - API Endpoints:
+2025-05-24 17:43:18,357 - INFO -   POST /start     - Start scraping
+2025-05-24 17:43:18,357 - INFO -   POST /stop      - Stop scraping
+2025-05-24 17:43:18,357 - INFO -   GET  /status/<session_id> - Get session status
+2025-05-24 17:43:18,357 - INFO -   GET  /sessions  - List all sessions
+2025-05-24 17:43:18,357 - INFO -   GET  /health    - Health check
+2025-05-24 17:43:18,357 - INFO - WebSocket Events: connect, join_session, leave_session
+2025-05-24 17:43:18,357 - INFO - ==================================================
+2025-05-24 17:43:18,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.204:5000
+2025-05-24 17:43:18,388 - INFO - [33mPress CTRL+C to quit[0m

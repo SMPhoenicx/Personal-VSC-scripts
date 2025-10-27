@@ -1,0 +1,62 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "New",
+      "request": "launch",
+      "mainClass": "Java.New",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "Heap",
+      "request": "launch",
+      "mainClass": "Java.Heap",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "TextEditor",
+      "request": "launch",
+      "mainClass": "Java.TextEditor",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "BigNumber",
+      "request": "launch",
+      "mainClass": "Java.BigNumber",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "Java.test",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "gift1",
+      "request": "launch",
+      "mainClass": "gift1",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "type": "java",
+      "name": "ride",
+      "request": "launch",
+      "mainClass": "ride",
+      "projectName": "vsc_fc7e7aaf"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sumsm/Documents/vsc/C++",
+      "program": "/Users/sumsm/Documents/vsc/C++/build/Debug/outDebug"
+    }
+  ]
+}

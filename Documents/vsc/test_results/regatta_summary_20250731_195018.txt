@@ -1,0 +1,87 @@
+REGATTA NETWORK SCRAPER TEST RESULTS
+==================================================
+
+Test Date: 2025-07-31 19:50:18
+Source URL: https://www.regattanetwork.com/clubmgmt/applet_regatta_results.php?regatta_id=30127&media_format=1
+Scraping Duration: 2.63 seconds
+
+EVENT INFORMATION:
+--------------------
+Title: 2025 TSA: CHANGES IN L’ATTITUDE REGATTA
+Club: Corpus Christi Yacht Club          July 26-27, 2025
+Dates: None
+Logo: ./regatta_uploads/8448/CCYCLogo175.gif
+
+DIVISIONS:
+--------------------
+
+1. Optimist RWB
+   Boats: 10
+   Races Scored: 7
+   Last Updated: Sunday, July 27, 2025 1:14:55 PM CDTClick on race number to view detailed race information.
+   Results Count: 10
+   
+   RESULTS:
+   Pos | Sail   | Boat Name        | Skipper           | Race Results | Points
+   ----+--------+------------------+-------------------+--------------+-------
+   1   | 23415  | Luke Scott[Red]  | RCYC              | 1-1-1-[3]-3- | 9    
+   2   | 20548  | William Bowman[B | LYC/TCYC          | 3-2-[4]-4-1- | 13   
+   3   | 22942  | Vitor De Castro[ | Lakewood YC       | [5]-4-2-1-4- | 17   
+   4   | 22803  | Lucas Rystrom[Bl | Corpus Christi Ya | 2-3-3-[11/DN | 25   
+   5   | 13576  | Thomas Forswall[ | TCYC/LYC          | 6-5-5-5-[8]- | 29   
+   6   | USA 21844 | Giovanni Marzoni | LYC               | 4-6-6-2-[7]- | 30   
+   7   | 23629  | Tate McLean[Blue | LYC               | [11/DNF]-7-7 | 40   
+   8   | 15527  | Jacqueline D'Oli | Lakewood Yacht Cl | [11/DNF]-11/ | 55   
+   9   | 19628  | Carys Rybar[Blue | Corpus Christi Ya | 7-[11/RET]-1 | 56   
+   10  | 14977  | Tealyn Buck[Blue | Corpus Christi    | 8-[11/DNS]-1 | 59   
+
+2. Optimist Green
+   Boats: 6
+   Races Scored: 11
+   Last Updated: Sunday, July 27, 2025 1:11:20 PM CDTClick on race number to view detailed race information.
+   Results Count: 6
+   
+   RESULTS:
+   Pos | Sail   | Boat Name        | Skipper           | Race Results | Points
+   ----+--------+------------------+-------------------+--------------+-------
+   1   | 22748  | Charlie von Eich | Lakewood Yacht Cl | 3-2-2-1-1-[7 | 15   
+   2   | 28408  | Boet Bowman      | LYC/TCYC          | 1-[7/DNS]-3- | 16   
+   3   | 22434  | Dylan Breen      | Lakewood Yacht Cl | [7/DNC]-3-1- | 21   
+   4   | 21336  | Charles Forswall | TCYC/LYC          | 2-1-[4]-3-3- | 29   
+   5   | 20817  | Elise D'Olive    | Lakewood Yacht Cl | 4-4-[5]-[7/D | 36   
+   6   | 22285  | CJ McLean        | LYC               | [7/DNF]-[7/R | 56   
+
+3. Laser Radial
+   Boats: 1
+   Races Scored: 0
+   Last Updated: Sunday, July 27, 2025 1:11:20 PM CDTClick on race number to view detailed race information.
+   Results Count: 0
+
+4. Laser 4.7
+   Boats: 3
+   Races Scored: 7
+   Last Updated: Sunday, July 27, 2025 1:27:35 PM CDTClick on race number to view detailed race information.
+   Results Count: 3
+   
+   RESULTS:
+   Pos | Sail   | Boat Name        | Skipper           | Race Results | Points
+   ----+--------+------------------+-------------------+--------------+-------
+   1   | 144307 | Milou Van Kuilen | Lakewood Yacht Cl | [2]-2-1-1-1- | 8    
+   2   | 220492 | Eli Maher        | Lakewood Yacht Cl | 1-1-[2]-2-2- | 9    
+   3   | 160022 | Alex Van Zanten  | FWBC              | [4/DNC]-4/DN | 24   
+
+5. C420
+   Boats: 6
+   Races Scored: 7
+   Last Updated: Sunday, July 27, 2025 1:29:28 PM CDTClick on race number to view detailed race information.
+   Results Count: 6
+   
+   RESULTS:
+   Pos | Sail   | Boat Name        | Skipper           | Race Results | Points
+   ----+--------+------------------+-------------------+--------------+-------
+   1   | 9380   | Clayton Rodick   | Houston Yacht Clu | 1-1-1-3-1-[3 | 8    
+   2   | 8685   | Roni Sela        | Austin Yacht Club | 3-2-3-1-2-1- | 12   
+   3   | 9663   | Maximo Hudlow    | CCYC              | 2-[3]-2-2-3- | 13   
+   4   | 7218   | June Schroeder   | CCYC              | 5-5-[7/RET]- | 25   
+   5   | 6214   | Cameron Rybar    | Corpus Christi Ya | 4-4-[7/DNF]- | 28   
+   6   | 9635   | Jessica Hobbs    | CCYC              | 6-[7/RET]-7/ | 41   
