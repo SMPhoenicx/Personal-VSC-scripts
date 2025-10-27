@@ -1,4 +1,1 @@
-# New-Mav-App
-# New-Mav-App
-# New-Mav-App
-# New-Mav-App
+# Personal projects and scripts, mostly temporary
